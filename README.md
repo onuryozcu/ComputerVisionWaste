@@ -6,12 +6,11 @@ In the continuation of the interface, integration of artificial intelligence pro
 
 - 🚀
 
-<br>
-<br>
-<p align="center">
-    <img width="1900" src="main.png" alt="system">
-</p>
+# ROS/Arduino Serial Motor Demo
 
+This is demonstration of a ROS 2 interface to an Arduino running differential-drive motor control code.
+
+The corresponding Arduino code can be found [here](https://github.com/joshnewans/ros_arduino_bridge), which is itself a fork of [this repo](https://github.com/hbrobotics/ros_arduino_bridge), which also contains a similar implementation for the ROS/Python/Client side (ROS 1 though).
 
 <br>
 <br>
@@ -20,13 +19,14 @@ In the continuation of the interface, integration of artificial intelligence pro
 </p>
 
 
+<br>
+<br>
+<p align="center">
+    <img width="1900" src="main.png" alt="system">
+</p>
+
 
 ##########################################################333
-# ROS/Arduino Serial Motor Demo
-
-This is demonstration of a ROS 2 interface to an Arduino running differential-drive motor control code.
-
-The corresponding Arduino code can be found [here](https://github.com/joshnewans/ros_arduino_bridge), which is itself a fork of [this repo](https://github.com/hbrobotics/ros_arduino_bridge), which also contains a similar implementation for the ROS/Python/Client side (ROS 1 though).
 
 ## Components
 
