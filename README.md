@@ -16,7 +16,7 @@ In the continuation of the interface, integration of artificial intelligence pro
 <br>
 <br>
 <p align="center">
-    <img width="1900" src="a1.png" alt="system">
+    <img width="1900" src="a1.PNG" alt="system">
 </p>
 
 
