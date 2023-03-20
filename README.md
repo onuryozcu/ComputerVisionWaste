@@ -12,9 +12,9 @@ It is the homepage of the interface developed for the integrated operation of th
 
 - `Home PAGE` - The page where the camera *tracking* and *detection* processes are followed.
 - `Image Processing Analysis` - The page where *dimensional measurement and image processing analyzes* are made on the detected products.
-- `Signal Flow System` - Serial port to connect to (default `/dev/ttyUSB0`)
-- `Settings` - Serial baud rate (default `57600`)
-- `Data Visualization` - Enables debugging of serial commands (default `false`)
+- `Signal Flow System` - The page where the connection status checks of the camera and other devices are made.
+- `Settings` - Settings page, the page where the connection settings are changed.
+- `Data Visualization` - Data page, daily tracking and reporting of detected ones.
 
 
 
