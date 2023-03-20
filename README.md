@@ -17,6 +17,12 @@ It is the homepage of the interface developed for the integrated operation of th
 - `Data Visualization` - Data page, daily tracking and reporting of detected ones.
 
 
+To run, e.g.
+```
+Soon the system working exe will be loaded.
+```
+
+- `Home PAGE` -
 
 <br>
 <br>
@@ -24,7 +30,7 @@ It is the homepage of the interface developed for the integrated operation of th
     <img width="1900" src="a1.PNG" alt="system">
 </p>
 
-
+- `Image Processing Analysis Page` -
 <br>
 <br>
 <p align="center">
@@ -32,19 +38,31 @@ It is the homepage of the interface developed for the integrated operation of th
 </p>
 
 
+- `Signal Flow System` -
+<br>
+<br>
+<p align="center">
+    <img width="1900" src="a3.PNG" alt="system">
+</p>
 
-To run, e.g.
-```
-ros2 run serial_motor_demo driver --ros-args -p encoder_cpr:=3440 -p loop_rate:=30 -p serial_port:=/dev/ttyUSB0 -p baud_rate:=57600
-```
+- `Settings` -
+<br>
+<br>
+<p align="center">
+    <img width="1900" src="a4.PNG" alt="system">
+</p>
 
+- `Data Visualization` -
+<br>
+<br>
+<p align="center">
+    <img width="1900" src="a5.PNG" alt="system">
+</p>
 
-## TODO
-
-- Add service for encoder reset
-- Add service for updating PID parameters
-- Stability improvements
-- More parameterisation
-
-
+- `Data Visualization` -
+<br>
+<br>
+<p align="center">
+    <img width="1900" src="a6.PNG" alt="system">
+</p>
 
