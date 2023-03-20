@@ -22,8 +22,8 @@ To run, e.g.
 Soon the system working exe will be loaded.
 ```
 
-- `Home PAGE` -
 
+- `Home PAGE`
 <br>
 <br>
 <p align="center">
@@ -37,32 +37,27 @@ Soon the system working exe will be loaded.
     <img width="1900" src="main.png" alt="system">
 </p>
 
-
 - `Signal Flow System` -
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a3.PNG" alt="system">
 </p>
-
 - `Settings` -
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a4.PNG" alt="system">
 </p>
-
 - `Data Visualization` -
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a5.PNG" alt="system">
 </p>
-
 - `Data Visualization` -
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a6.PNG" alt="system">
 </p>
-
