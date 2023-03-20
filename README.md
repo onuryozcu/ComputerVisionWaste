@@ -6,11 +6,17 @@ In the continuation of the interface, integration of artificial intelligence pro
 
 - 🚀
 
-# ROS/Arduino Serial Motor Demo
+# User Interface 
 
-This is demonstration of a ROS 2 interface to an Arduino running differential-drive motor control code.
+It is the homepage of the interface developed for the integrated operation of the waste separation system with computer vision and artificial intelligence.
 
-The corresponding Arduino code can be found [here](https://github.com/joshnewans/ros_arduino_bridge), which is itself a fork of [this repo](https://github.com/hbrobotics/ros_arduino_bridge), which also contains a similar implementation for the ROS/Python/Client side (ROS 1 though).
+- `Home PAGE` - Encoder counts per revolution
+- `Image Processing Analysis` - Execution rate of the *Arduino* code (see Arduino side documentation for details)
+- `Signal Flow System` - Serial port to connect to (default `/dev/ttyUSB0`)
+- `Settings` - Serial baud rate (default `57600`)
+- `Data Visualization` - Enables debugging of serial commands (default `false`)
+
+
 
 <br>
 <br>
@@ -26,6 +32,8 @@ The corresponding Arduino code can be found [here](https://github.com/joshnewans
 </p>
 
 
+
+
 ##########################################################333
 
 ## Components
@@ -34,16 +42,6 @@ The `serial_motor_demo` package consists of two nodes, `driver.py` and `gui.py`.
 
 The GUI provides a simple interface for development and testing of such a system. It publishes and subscribes to the appropriate topics.
 
-
-## Driver configuration & usage
-
-The driver has a few parameters:
-
-- `encoder_cpr` - Encoder counts per revolution
-- `loop_rate` - Execution rate of the *Arduino* code (see Arduino side documentation for details)
-- `serial_port` - Serial port to connect to (default `/dev/ttyUSB0`)
-- `baud_rate` - Serial baud rate (default `57600`)
-- `serial_debug` - Enables debugging of serial commands (default `false`)
 
 To run, e.g.
 ```
