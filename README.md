@@ -23,7 +23,7 @@ Soon the system working exe will be loaded.
 ```
 
 
--`Home PAGE`
+- `Home PAGE`
 <br>
 <br>
 <p align="center">
