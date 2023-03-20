@@ -30,34 +30,34 @@ Soon the system working exe will be loaded.
     <img width="1900" src="a1.PNG" alt="system">
 </p>
 
--`Image Processing Analysis Page` 
+- `Image Processing Analysis Page` 
 <br>
 <br>
 <p align="center">
     <img width="1900" src="main.png" alt="system">
 </p>
 
--`Signal Flow System` 
+- `Signal Flow System` 
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a3.PNG" alt="system">
 </p>
--`Settings`
+- `Settings`
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a4.PNG" alt="system">
 </p>
 
--`Data Visualization` 
+- `Data Visualization` 
 <br>
 <br>
 <p align="center">
     <img width="1900" src="a5.PNG" alt="system">
 </p>
-
--`Data Visualization` 
+ 
+- `Data Visualization` 
 <br>
 <br>
 <p align="center">
